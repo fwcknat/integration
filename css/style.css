@@ -1,0 +1,46 @@
+body{
+background-color: #00008B;
+font-family: 'Raleway', sans-serif;
+color: white;
+
+}
+a{
+text-decoration: none;
+color: white;
+padding-left: 50px;
+padding-right: 5px;
+}
+.cabecalho{
+width: 100%;
+height: 100px;
+background-color: black;
+color: black;
+border-radius: 10px;
+padding-top: 10px;
+display: inline-block;
+padding-right: 5px;
+
+}
+p{
+padding-right: 20px;
+padding-bottom: 100px;
+}
+c{
+color: white;
+padding-left: 50px;
+padding-right: 5px;
+font-family: 'Raleway', sans-serif;
+
+}
+
+.footer{
+width: 250px;
+height: 100px;
+background-color: black;
+color: black;
+border-radius: 10px;
+
+
+
+
+}
